@@ -28,7 +28,7 @@ Requirements
 
 Training and Evaluation
 
-Training and testing instructions and visualization results for Image Deraining, Image Deblurring, and Real Image Denoising are provied in the links below. 
+Training and testing instructions for Image Deraining, Image Deblurring, and Real Image Denoising are provied in the links below. 
 
 <table>
 
