@@ -84,7 +84,7 @@ Training and testing instructions for Image Deraining, Image Deblurring, and Rea
 
 Contact
 
-<!Should you have any questions, please contact 12311080786@chnu.edu.cn >
+Should you have any questions, please contact 12311080786@chnu.edu.cn 
 
 Acknowledgment: This code is based on the BasicSR toolbox and Restormer, WeatherDiffusion. 
 
