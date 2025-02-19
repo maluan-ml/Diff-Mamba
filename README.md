@@ -44,42 +44,24 @@ Training and testing instructions for Image Deraining, Image Deblurring, and Rea
 
   </tr>
 
-  <tr>
-
+   <tr>
     <td align="center">Image Deraining</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Download</td>
-
+    <td align="center"><a href="Deraining/README.md#training">Link</a></td>
+    <td align="center"><a href="Deraining/README.md#testing">Link</a></td>
+    <td align="center"><a href="https://drive.google.com/drive/folders/1v4aAFDAojHtedtRmPcqVKJcAixW5dZ8m">Download</a></td>
   </tr>
-
   <tr>
-
     <td align="center">Image Deblurring</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Download</td>
-
+    <td align="center"><a href="Deblurring/README.md#training">Link</a></td>
+    <td align="center"><a href="Deblurring/README.md#testing">Link</a></td>
+    <td align="center"><a href="https://drive.google.com/drive/folders/1qYVPblP0kCyfIoxDQ2NBsdbv_MoZ24S4">Download</a></td>
   </tr>
-
   <tr>
-
      <td align="center">Real Image Denoising</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Link</td>
-
-    <td align="center">Download</td>
-
+    <td align="center"><a href="Denoising/README.md#training">Link</a></td>
+    <td align="center"><a href="Denoising/README.md#testing">Link</a></td>
+    <td align="center"><a href="https://drive.google.com/drive/folders/1hgSYcwSLktFh42LA9bDXTLUuNzThdJVA">Download</a></td>
   </tr>
-
 </table>
 
 Contact
