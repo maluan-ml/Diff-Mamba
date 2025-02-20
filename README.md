@@ -5,17 +5,6 @@ Two-stage Mamba-based Diffusion Model for Image Restoration
 
 
 
-<!--
-
-Two-stage Mamba-based Diffusion Model for Image Restoration
-
-<img src = "https://github.com/wlydlut/Diff-Mamba/blob/main/Figs/fig1.png#pic_center">  
-
-First Training Pipeline and Sampling Phase
-
-<img src = "https://github.com/wlydlut/Diff-Mamba/blob/main/Figs/fig2.png#pic_center"> 
-
--->
 
 Requirements
 
