@@ -1,7 +1,7 @@
 # Diff-Mamba
 Two-stage Mamba-based Diffusion Model for Image Restoration 
 
-<!By Lei Liu , Luan Ma , Shuai Wang, Jun Wang and Silas N. Melo >
+By Lei Liu , Luan Ma , Shuai Wang, Jun Wang and Silas N. Melo 
 
 
 
