@@ -21,17 +21,7 @@ Training and testing instructions for Image Deraining, Image Deblurring, and Rea
 
 <table>
 
-  <tr>
 
-    <th align="center">Task</th>
-
-    <th align="center">Training</th>
-
-    <th align="center">Testing</th>
-
-    <th align="center">Diff-Mamba's Visual Results</th>
-
-  </tr>
 
    <tr>
     <td align="center">Image Deraining</td>
